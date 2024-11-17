@@ -1,6 +1,6 @@
 ---
 name: "feat: Add new awesome thing"
-about: "Add a new awesome thing related to shadcn/ui"
+about: "Add a new awesome thing related to atprotocol or bluesky"
 labels:
   - feature
 ---
