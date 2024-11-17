@@ -1,13 +1,8 @@
----
-name: "feat: Add new awesome thing"
-about: "Add a new awesome thing related to atprotocol or bluesky"
-labels:
-  - feature
----
-
 ## Describe the awesome thing you want to add
 
-**What is it?**
+**What is the name of the awesome thing?** (e.g. scroll.blue)
+
+**What is it?** (Short 1-2 sentence description)
 
 **What category does it belong to?** (Client, data source, analytics, etc.)
 
@@ -17,6 +12,7 @@ labels:
 
 ## Checklist
 
+- [ ] I have read the [contribution guidelines](https://github.com/awesome-atproto/awesome-atproto/blob/main/contributing.md).
 - [ ] I checked that it is in alphabetical order.
 - [ ] I have checked that the awesome thing is not already listed.
 - [ ] I have provided a clear and concise description of the awesome thing.
