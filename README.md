@@ -4,7 +4,14 @@
 
 ## Contents
 
+- [Analytics](#analytics)
 - [Clients](#clients)
+
+## Analytics
+
+Analytics tools for ATProtocol or Bluesky.
+
+- [scroll.blue/stats](https://scroll.blue/stats) - Realtime user statistics for Bluesky.
 
 ## Clients
 
