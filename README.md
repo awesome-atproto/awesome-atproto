@@ -1,2 +1,20 @@
-# awesome-atproto
-A curated list of awesome tools, websites, or anything else built using the ATProtocol
+# Awesome ATProto
+
+> A curated list of awesome things built using the ATProtocol
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+## Contents
+
+- [Clients](#clients)
+
+## Clients
+
+Clients for the ATProtocol or Bluesky. Web, mobile, desktop, and other clients included.
+
+- [Ouranos](https://useouranos.app) - Your friendly Bluesky client for the web.
+- [scroll.blue](https://scroll.blue) - A minimal and open-source ATProtocol web client.
+
+## Contribute
+
+Contributions encouraged! Read the [contribution guidelines](contributing.md) first.
