@@ -1,8 +1,6 @@
-# Awesome ATProto
+# Awesome ATProto [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome things built using the ATProtocol
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
 

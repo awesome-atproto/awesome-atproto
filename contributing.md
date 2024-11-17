@@ -8,9 +8,14 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Your submission must be ATProtocol or Bluesky related.
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make sure your new entry is in alphabetical order and in the correct category.
+- If you are adding a new category, make sure to add it to the table of contents, also in alphabetical order.
+- Make an individual PR for each new entry.
+- Make sure your spelling and grammar are correct.
+- Make sure your link is valid.
+- Subcategories are optional, if you make one, add it to the table of contents.
 
 Thank you for your suggestions!
 
